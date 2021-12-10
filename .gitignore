@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/ChinaGameJam/[Ll]ibrary/
+/ChinaGameJam/Library/
 /ChinaGameJam/[Tt]emp/
 /ChinaGameJam/[Oo]bj/
 /ChinaGameJam/[Bb]uild/
