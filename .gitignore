@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-[Ll]ibrary/
-ChinaGameJam/[Tt]emp/
-ChinaGameJam/[Oo]bj/
-ChinaGameJam/[Bb]uild/
-ChinaGameJam/[Bb]uilds/
-ChinaGameJam/[Ll]ogs/
-ChinaGameJam/[Mm]emoryCaptures/
+/ChinaGameJam/[Ll]ibrary/
+/ChinaGameJam/[Tt]emp/
+/ChinaGameJam/[Oo]bj/
+/ChinaGameJam/[Bb]uild/
+/ChinaGameJam/[Bb]uilds/
+/ChinaGameJam/[Ll]ogs/
+/ChinaGameJam/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
