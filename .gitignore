@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-ChinaGameJam/[Ll]ibrary/
+[Ll]ibrary/
 ChinaGameJam/[Tt]emp/
 ChinaGameJam/[Oo]bj/
 ChinaGameJam/[Bb]uild/
@@ -47,6 +47,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+* 
+
 
 # Unity3D generated file on crash reports
 sysinfo.txt
